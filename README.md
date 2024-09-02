@@ -1,2 +1,3 @@
 # Harry-Potter-Invisibility-Cloak
-developed a real-time computer vision system that creates an invisibility cloak effect using OpenCV in Python
+Developed a real-time computer vision system to create an invisibility cloak effect, leveraging OpenCV and Python to mask and
+replace specific colors with a static background, simulating invisibility.
